@@ -1,0 +1,10 @@
+E:\20231\net1\combobox\combo1\combo1\bin\Debug\combo1.exe.config
+E:\20231\net1\combobox\combo1\combo1\bin\Debug\combo1.exe
+E:\20231\net1\combobox\combo1\combo1\bin\Debug\combo1.pdb
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.csproj.AssemblyReference.cache
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.tResult.resources
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.Properties.Resources.resources
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.csproj.GenerateResource.cache
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.csproj.CoreCompileInputs.cache
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.exe
+E:\20231\net1\combobox\combo1\combo1\obj\Debug\combo1.pdb

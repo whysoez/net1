@@ -1,0 +1,10 @@
+E:\20231\net1\combobox\tooltip1\tooltip1\bin\Debug\tooltip1.exe.config
+E:\20231\net1\combobox\tooltip1\tooltip1\bin\Debug\tooltip1.exe
+E:\20231\net1\combobox\tooltip1\tooltip1\bin\Debug\tooltip1.pdb
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.csproj.AssemblyReference.cache
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.Form1.resources
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.Properties.Resources.resources
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.csproj.GenerateResource.cache
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.csproj.CoreCompileInputs.cache
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.exe
+E:\20231\net1\combobox\tooltip1\tooltip1\obj\Debug\tooltip1.pdb

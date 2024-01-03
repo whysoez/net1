@@ -1,0 +1,10 @@
+E:\20231\net1\form1\bai4Prime\bin\Debug\bai4Prime.exe.config
+E:\20231\net1\form1\bai4Prime\bin\Debug\bai4Prime.exe
+E:\20231\net1\form1\bai4Prime\bin\Debug\bai4Prime.pdb
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.csproj.AssemblyReference.cache
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.Form1.resources
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.Properties.Resources.resources
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.csproj.GenerateResource.cache
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.exe
+E:\20231\net1\form1\bai4Prime\obj\Debug\bai4Prime.pdb

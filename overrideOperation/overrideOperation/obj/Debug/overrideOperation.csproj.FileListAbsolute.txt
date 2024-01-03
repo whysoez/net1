@@ -1,0 +1,7 @@
+E:\20231\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.exe.config
+E:\20231\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.exe
+E:\20231\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.pdb
+E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.AssemblyReference.cache
+E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.CoreCompileInputs.cache
+E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.exe
+E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.pdb

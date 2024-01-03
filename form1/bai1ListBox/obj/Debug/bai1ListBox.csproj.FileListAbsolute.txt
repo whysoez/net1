@@ -1,0 +1,10 @@
+E:\20231\net1\form1\bai1ListBox\bin\Debug\bai1ListBox.exe.config
+E:\20231\net1\form1\bai1ListBox\bin\Debug\bai1ListBox.exe
+E:\20231\net1\form1\bai1ListBox\bin\Debug\bai1ListBox.pdb
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.csproj.AssemblyReference.cache
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.Form1.resources
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.Properties.Resources.resources
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.csproj.GenerateResource.cache
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.exe
+E:\20231\net1\form1\bai1ListBox\obj\Debug\bai1ListBox.pdb

@@ -1,0 +1,10 @@
+E:\20231\net1\form1\bai8Cal\bin\Debug\bai8Cal.exe.config
+E:\20231\net1\form1\bai8Cal\bin\Debug\bai8Cal.exe
+E:\20231\net1\form1\bai8Cal\bin\Debug\bai8Cal.pdb
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.csproj.AssemblyReference.cache
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.Form1.resources
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.Properties.Resources.resources
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.csproj.GenerateResource.cache
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.exe
+E:\20231\net1\form1\bai8Cal\obj\Debug\bai8Cal.pdb

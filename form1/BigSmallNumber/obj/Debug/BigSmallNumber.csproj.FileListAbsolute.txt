@@ -1,0 +1,10 @@
+E:\20231\net1\form1\BigSmallNumber\bin\Debug\BigSmallNumber.exe.config
+E:\20231\net1\form1\BigSmallNumber\bin\Debug\BigSmallNumber.exe
+E:\20231\net1\form1\BigSmallNumber\bin\Debug\BigSmallNumber.pdb
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.csproj.AssemblyReference.cache
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.Form1.resources
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.Properties.Resources.resources
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.csproj.GenerateResource.cache
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.exe
+E:\20231\net1\form1\BigSmallNumber\obj\Debug\BigSmallNumber.pdb

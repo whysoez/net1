@@ -1,0 +1,10 @@
+E:\20231\net1\FontDialog\FontDialog\bin\Debug\FontDialog.exe.config
+E:\20231\net1\FontDialog\FontDialog\bin\Debug\FontDialog.exe
+E:\20231\net1\FontDialog\FontDialog\bin\Debug\FontDialog.pdb
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.AssemblyReference.cache
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.Properties.Resources.resources
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.GenerateResource.cache
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.CoreCompileInputs.cache
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.exe
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.pdb
+E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.formD.resources

@@ -1,0 +1,10 @@
+E:\20231\net1\form1\form1\bin\Debug\form1.exe.config
+E:\20231\net1\form1\form1\bin\Debug\form1.exe
+E:\20231\net1\form1\form1\bin\Debug\form1.pdb
+E:\20231\net1\form1\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+E:\20231\net1\form1\form1\obj\Debug\form1.Form1.resources
+E:\20231\net1\form1\form1\obj\Debug\form1.Properties.Resources.resources
+E:\20231\net1\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+E:\20231\net1\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\form1\obj\Debug\form1.exe
+E:\20231\net1\form1\form1\obj\Debug\form1.pdb

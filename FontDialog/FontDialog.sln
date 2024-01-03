@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontDialog", "FontDialog\FontDialog.csproj", "{9CE1C1B5-6054-4101-96F0-039FE638EBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavefileDialog", "SavefileDialog\SavefileDialog.csproj", "{4FDB1CF1-2868-4E57-AC80-4C3003DF39A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE1C1B5-6054-4101-96F0-039FE638EBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE1C1B5-6054-4101-96F0-039FE638EBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE1C1B5-6054-4101-96F0-039FE638EBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE1C1B5-6054-4101-96F0-039FE638EBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDB1CF1-2868-4E57-AC80-4C3003DF39A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDB1CF1-2868-4E57-AC80-4C3003DF39A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDB1CF1-2868-4E57-AC80-4C3003DF39A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDB1CF1-2868-4E57-AC80-4C3003DF39A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE721774-E591-45B6-97E4-854681D39D7C}
+	EndGlobalSection
+EndGlobal

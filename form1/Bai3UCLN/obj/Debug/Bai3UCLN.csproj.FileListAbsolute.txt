@@ -1,0 +1,10 @@
+E:\20231\net1\form1\Bai3UCLN\bin\Debug\Bai3UCLN.exe.config
+E:\20231\net1\form1\Bai3UCLN\bin\Debug\Bai3UCLN.exe
+E:\20231\net1\form1\Bai3UCLN\bin\Debug\Bai3UCLN.pdb
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.csproj.AssemblyReference.cache
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.Form1.resources
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.Properties.Resources.resources
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.csproj.GenerateResource.cache
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.exe
+E:\20231\net1\form1\Bai3UCLN\obj\Debug\Bai3UCLN.pdb

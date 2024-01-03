@@ -1,0 +1,10 @@
+E:\20231\net1\form1\SumNumber\bin\Debug\SumNumber.exe.config
+E:\20231\net1\form1\SumNumber\bin\Debug\SumNumber.exe
+E:\20231\net1\form1\SumNumber\bin\Debug\SumNumber.pdb
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.csproj.AssemblyReference.cache
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.Form1.resources
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.Properties.Resources.resources
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.csproj.GenerateResource.cache
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.exe
+E:\20231\net1\form1\SumNumber\obj\Debug\SumNumber.pdb

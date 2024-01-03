@@ -1,0 +1,10 @@
+E:\20231\net1\form1\bai6Bit\bin\Debug\bai6Bit.exe.config
+E:\20231\net1\form1\bai6Bit\bin\Debug\bai6Bit.exe
+E:\20231\net1\form1\bai6Bit\bin\Debug\bai6Bit.pdb
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.csproj.AssemblyReference.cache
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.Form1.resources
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.Properties.Resources.resources
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.csproj.GenerateResource.cache
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.csproj.CoreCompileInputs.cache
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.exe
+E:\20231\net1\form1\bai6Bit\obj\Debug\bai6Bit.pdb
