@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.fMenuLibrary.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\bin\Debug\MenuLibrary.exe.config
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\bin\Debug\MenuLibrary.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\bin\Debug\MenuLibrary.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\MenuLibrary\obj\Debug\MenuLibrary.pdb

@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\bin\Debug\QuanLyDocGia.exe.config
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\bin\Debug\QuanLyDocGia.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\bin\Debug\QuanLyDocGia.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.QuanLyDocGia.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyDocGia\obj\Debug\QuanLyDocGia.pdb

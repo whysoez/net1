@@ -1,0 +1,16 @@
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.QuanLySach.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Reader.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Login.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.ForgotPass.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Borrow.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Menu.resources

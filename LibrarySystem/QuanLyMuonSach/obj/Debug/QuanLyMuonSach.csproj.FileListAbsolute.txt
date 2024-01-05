@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\bin\Debug\QuanLyMuonSach.exe.config
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\bin\Debug\QuanLyMuonSach.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\bin\Debug\QuanLyMuonSach.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.QuanLyMuonSach.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\QuanLyMuonSach\obj\Debug\QuanLyMuonSach.pdb

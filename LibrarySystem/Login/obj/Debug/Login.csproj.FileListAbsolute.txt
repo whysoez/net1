@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\bin\Debug\Login.exe.config
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\bin\Debug\Login.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\bin\Debug\Login.pdb
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.fLogin.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.exe
+D:\Lucas_Dinh\back_acerV5\LibrarySystem\Login\obj\Debug\Login.pdb
