@@ -12,6 +12,8 @@ namespace tooltip1
 {
     public partial class Form1 : Form
     {
+        public string passShow = "";
+        public Boolean check = true;
         public Form1()
         {
             InitializeComponent();
@@ -24,16 +26,16 @@ namespace tooltip1
 
             hProvider.SetShowHelp(tbUserName, true);
             hProvider.SetShowHelp(tbPassword, true);
-            hProvider.HelpNamespace ="http://phunutoday.vn/kham-pha-cong-nghe/cac-nguyen-tactao-mat-khau-an-toan-33828.html"; ;
+            hProvider.HelpNamespace = "http://phunutoday.vn/kham-pha-cong-nghe/cac-nguyen-tactao-mat-khau-an-toan-33828.html"; ;
         }
 
         private void tbUserName_TextChanged(object sender, EventArgs e)
         {
-            if(tbUserName.Text.Length <= 0)
+            if (tbUserName.Text.Length <= 0)
             {
                 epUserName.SetError(tbUserName, "Username not empty");
             }
-            else if(tbUserName.Text.IndexOf(' ') != -1)
+            else if (tbUserName.Text.IndexOf(' ') != -1)
             {
                 epUserName.SetError(tbUserName, "Username not exist space");
             }
@@ -45,15 +47,39 @@ namespace tooltip1
 
         private void tbPassword_TextChanged(object sender, EventArgs e)
         {
-            long check = 0;
             try
             {
-                check = Convert.ToInt64(tbPassword.Text);
-                epPassword.Clear();
+                if (cbshowPass.Checked)
+                {
+                    //var text = tbPassword.Text.Substring(tbPassword.Text.Length -1, tbPassword.Text.Length);
+                    //passShow = passShow + text;
+                    passShow = tbPassword.Text;
+                    tbPassword.Text = passShow;
+                }
+                else
+                {
+                    if (tbPassword.Text.Length == 0)
+                    {
+                        passShow = tbPassword.Text;
+                    }
+                    else
+                    {
+                        if (check)
+                            passShow = passShow + tbPassword.Text[tbPassword.Text.Length - 1];
+                        string passHide = "";
+                        for (int i = 0; i < tbPassword.Text.Length; i++)
+                        {
+                            passHide += "*";
+                        }
+                        check = !check;
+                        tbPassword.Text = passHide;
+                        tbPassword.Select(tbPassword.Text.Length, 0);
+                    }
+                }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                epPassword.SetError(tbPassword, ex.Message);
+                //epPassword.SetError(tbPassword, ex.Message);
             }
         }
 
@@ -64,7 +90,35 @@ namespace tooltip1
 
         private void bLogin_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Login");
+            if(tbUserName.Text == "admin" && passShow == "123456")
+            {
+                MessageBox.Show("Đăng nhập thành công");
+            }
+            else
+            {
+                MessageBox.Show("Không đăng nhập thành công");
+            }
+        }
+
+        private void cbshowPass_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cbshowPass.Checked)
+            {
+                //if (check)
+                //    passShow = tbPassword.Text;
+                tbPassword.Text = passShow;
+                check = false;
+            }
+            else
+            {
+                string passHide = "";
+                for (int i = 0; i < tbPassword.Text.Length; i++)
+                {
+                    passHide += "*";
+                }
+                tbPassword.Text = passHide;
+                check = true;
+            }
         }
     }
 }

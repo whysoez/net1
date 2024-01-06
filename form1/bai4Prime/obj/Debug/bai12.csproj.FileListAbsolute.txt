@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\bin\Debug\bai4Prime.exe.config
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\bin\Debug\bai4Prime.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\bin\Debug\bai4Prime.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai12.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai12.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai4Prime.Form1.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai4Prime.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai12.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai12.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai4Prime.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai4Prime\obj\Debug\bai4Prime.pdb

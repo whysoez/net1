@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\bin\Debug\timer.exe.config
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\bin\Debug\timer.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\bin\Debug\timer.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\bai17.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\bai17.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\timer.Form1.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\timer.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\bai17.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\bai17.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\timer.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\combobox\tooltip1\timer\obj\Debug\timer.pdb

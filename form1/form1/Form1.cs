@@ -24,7 +24,7 @@ namespace form1
 
         private void but1_Click(object sender, EventArgs e)
         {
-            textBox3.Text = (int.Parse(textBox1.Text) + int.Parse(textBox2.Text)).ToString();
+            tthanhTien.Text = (int.Parse(tsoLuong.Text)*int.Parse(tdonGia.Text)).ToString();
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -34,9 +34,11 @@ namespace form1
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
-            textBox2.Text = "";
-            textBox3.Text = "";
+            ttenHang.Text = "";
+            tsoLuong.Text = "";
+            tdonGia.Text = "";
+            tthanhTien.Text = "";
+            ttenHang.Focus();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -52,6 +54,39 @@ namespace form1
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void tthanhTien_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numeric_valid(object sender, CancelEventArgs e)
+        {
+            int n;
+            var isnumeric = int.TryParse(tsoLuong.Text, out n);
+            if (!isnumeric)
+            {
+                esoLuong.SetError(tsoLuong, "so luong phải là số");
+            }
+            else
+            {
+                esoLuong.SetError(tsoLuong, string.Empty);
+            }
+        }
+
+        private void edongia_valid(object sender, CancelEventArgs e)
+        {
+            int n;
+            var isnumeric = int.TryParse(tdonGia.Text, out n);
+            if (!isnumeric)
+            {
+                edonGia.SetError(tdonGia, "đơn giá phải là số");
+            }
+            else
+            {
+                edonGia.SetError(tdonGia, string.Empty);
+            }
         }
     }
 }

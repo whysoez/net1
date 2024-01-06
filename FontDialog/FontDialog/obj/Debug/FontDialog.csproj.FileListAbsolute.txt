@@ -8,3 +8,14 @@ E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.CoreCompileInput
 E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.exe
 E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.pdb
 E:\20231\net1\FontDialog\FontDialog\obj\Debug\FontDialog.formD.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\bin\Debug\FontDialog.exe.config
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\bin\Debug\FontDialog.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\bin\Debug\FontDialog.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.formD.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\FontDialog\FontDialog\obj\Debug\FontDialog.pdb

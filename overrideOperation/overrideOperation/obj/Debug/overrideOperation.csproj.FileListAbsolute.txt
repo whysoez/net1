@@ -5,3 +5,11 @@ E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.cs
 E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.CoreCompileInputs.cache
 E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.exe
 E:\20231\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.exe.config
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\bin\Debug\overrideOperation.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\overrideOperation\overrideOperation\obj\Debug\overrideOperation.pdb

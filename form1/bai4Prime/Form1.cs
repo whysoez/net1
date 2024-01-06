@@ -39,5 +39,10 @@ namespace bai4Prime
         {
             this.Close();
         }
+
+        private void tSmallN_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,11 @@
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\bin\Debug\bai18.exe.config
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\bin\Debug\bai18.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\bin\Debug\bai18.pdb
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.csproj.AssemblyReference.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.csproj.SuggestedBindingRedirects.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.Form1.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.Properties.Resources.resources
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.csproj.GenerateResource.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.csproj.CoreCompileInputs.cache
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.exe
+D:\Lucas_Dinh\back_acerV5\20231\net1\net1\form1\bai18\obj\Debug\bai18.pdb

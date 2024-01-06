@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hungh\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas.dinh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\20231\\net1\\operation\\operation\\operation.csproj",
+      "projectUniqueName": "D:\\Lucas_Dinh\\back_acerV5\\20231\\net1\\net1\\operation\\operation\\operation.csproj",
       "projectName": "operation",
-      "projectPath": "E:\\20231\\net1\\operation\\operation\\operation.csproj",
-      "packagesPath": "C:\\Users\\hungh\\.nuget\\packages\\",
-      "outputPath": "E:\\20231\\net1\\operation\\operation\\obj\\",
+      "projectPath": "D:\\Lucas_Dinh\\back_acerV5\\20231\\net1\\net1\\operation\\operation\\operation.csproj",
+      "packagesPath": "C:\\Users\\lucas.dinh\\.nuget\\packages\\",
+      "outputPath": "D:\\Lucas_Dinh\\back_acerV5\\20231\\net1\\net1\\operation\\operation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hungh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas.dinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

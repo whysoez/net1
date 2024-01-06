@@ -42,9 +42,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(278, 63);
+            this.label1.Location = new System.Drawing.Point(313, 79);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(277, 39);
+            this.label1.Size = new System.Drawing.Size(326, 46);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tìm số nguyên tố";
             // 
@@ -52,9 +52,9 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(88, 146);
+            this.label2.Location = new System.Drawing.Point(99, 182);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 32);
+            this.label2.Size = new System.Drawing.Size(128, 38);
             this.label2.TabIndex = 1;
             this.label2.Text = "Nhập N";
             // 
@@ -62,18 +62,19 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(88, 222);
+            this.label3.Location = new System.Drawing.Point(99, 278);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(230, 32);
+            this.label3.Size = new System.Drawing.Size(269, 38);
             this.label3.TabIndex = 2;
             this.label3.Text = "Số NT nhỏ hơn N";
             // 
             // bSearch
             // 
             this.bSearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bSearch.Location = new System.Drawing.Point(79, 346);
+            this.bSearch.Location = new System.Drawing.Point(89, 432);
+            this.bSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.bSearch.Name = "bSearch";
-            this.bSearch.Size = new System.Drawing.Size(132, 42);
+            this.bSearch.Size = new System.Drawing.Size(148, 52);
             this.bSearch.TabIndex = 3;
             this.bSearch.Text = "Tìm";
             this.bSearch.UseVisualStyleBackColor = true;
@@ -82,9 +83,10 @@
             // bExit
             // 
             this.bExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bExit.Location = new System.Drawing.Point(471, 346);
+            this.bExit.Location = new System.Drawing.Point(530, 432);
+            this.bExit.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.bExit.Name = "bExit";
-            this.bExit.Size = new System.Drawing.Size(166, 42);
+            this.bExit.Size = new System.Drawing.Size(187, 52);
             this.bExit.TabIndex = 4;
             this.bExit.Text = "Thoát";
             this.bExit.UseVisualStyleBackColor = true;
@@ -93,24 +95,27 @@
             // tN
             // 
             this.tN.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tN.Location = new System.Drawing.Point(343, 146);
+            this.tN.Location = new System.Drawing.Point(386, 182);
+            this.tN.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tN.Name = "tN";
-            this.tN.Size = new System.Drawing.Size(202, 38);
+            this.tN.Size = new System.Drawing.Size(227, 44);
             this.tN.TabIndex = 5;
             // 
             // tSmallN
             // 
             this.tSmallN.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tSmallN.Location = new System.Drawing.Point(343, 219);
+            this.tSmallN.Location = new System.Drawing.Point(386, 274);
+            this.tSmallN.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tSmallN.Name = "tSmallN";
-            this.tSmallN.Size = new System.Drawing.Size(422, 38);
+            this.tSmallN.Size = new System.Drawing.Size(474, 44);
             this.tSmallN.TabIndex = 6;
+            this.tSmallN.TextChanged += new System.EventHandler(this.tSmallN_TextChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(900, 562);
             this.Controls.Add(this.tSmallN);
             this.Controls.Add(this.tN);
             this.Controls.Add(this.bExit);
@@ -118,6 +123,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
